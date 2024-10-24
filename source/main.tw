@@ -1,0 +1,13 @@
+:: StoryData
+{
+    "format": "SugarCube",
+     "format-version": "2.36.1",
+     "start": "Start",
+    "ifid": "116F144C-D5EF-4AB9-ADCC-F89AE4B66538"
+}
+
+::StoryTitle
+Twee!
+
+::Start
+The story begins here.
